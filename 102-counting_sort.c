@@ -1,5 +1,4 @@
 #include "sort.h"
-
 /**
  * counting_sort - sorts an array of integers in ascending
  * order using the Counting sort algorithm
