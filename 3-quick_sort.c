@@ -1,5 +1,4 @@
 #include "sort.h"
-
 /**
  * quick_sort_rec - sorts an array of integers in ascending order using
  * the Selection sort algorithm using recursion
