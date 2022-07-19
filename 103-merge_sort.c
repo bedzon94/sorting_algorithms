@@ -1,5 +1,4 @@
 #include "sort.h"
-
 /**
  * merge - merges l and r arrays into original array
  * @array: pointer to array
