@@ -1,5 +1,4 @@
 #include "sort.h"
-
 /**
  * max_val - gets max value from array
  * @array: pointer to array
