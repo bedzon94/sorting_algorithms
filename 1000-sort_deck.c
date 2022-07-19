@@ -1,5 +1,4 @@
 #include "deck.h"
-
 /**
  * aux_num_fun - turn into integer card value
  * @head_tmp1: pointer to the list
