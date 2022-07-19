@@ -1,4 +1,5 @@
 #include "sort.h"
+
 /**
  * swap1 - swaps nodes from left to right
  * @list: pointer to list
